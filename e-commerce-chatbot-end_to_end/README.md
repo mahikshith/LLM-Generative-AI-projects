@@ -6,6 +6,7 @@ I mean let's be honest we look at ratings but we can't read all the reviews (nob
 
 so, what if we scrape the reviews of products given by people for the products under same catogery belong different companies and get honest answers be it positive or negative and make a decision to buy it or not.
 
+Project explanation video : https://drive.google.com/file/d/17FeAEHYOKM4AFdKDUU_PDkh1s92C2cFG/view?usp=sharing
 
 Roadmap : 
 
