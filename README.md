@@ -1,6 +1,6 @@
 # LLM-Generative-AI-projects
 
-Just click on the above project folder to know more about individual projects.
+### *Just click on the above project folder to know more about individual projects*
 
 > This repository showcases a collection of projects that leverage the power of Large Language Models (LLMs) and generative AI to solve real-world problems. Each project demonstrates the potential of AI to revolutionize various industries.
 
