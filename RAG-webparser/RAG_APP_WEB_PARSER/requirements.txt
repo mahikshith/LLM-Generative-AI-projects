@@ -1,0 +1,8 @@
+langchain
+python-dotenv
+ipykernel
+langchain-community
+langchain-google-genai
+langchain_community 
+beautifulsoup4
+faiss-cpu
